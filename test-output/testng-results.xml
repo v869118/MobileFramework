@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="46571" started-at="2018-04-05T07:49:54Z" finished-at="2018-04-05T07:50:41Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="46571" started-at="2018-04-05T07:49:54Z" finished-at="2018-04-05T07:50:41Z">
+      <class name="com.veskp.test.scenario2.TC4">
+        <test-method status="PASS" signature="suiteSetup(org.testng.ITestContext)[pri:0, instance:com.veskp.test.scenario2.TC4@71809907]" name="suiteSetup" is-config="true" duration-ms="476" started-at="2018-04-05T13:19:54Z" finished-at="2018-04-05T13:19:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@18324f97]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- suiteSetup -->
+        <test-method status="PASS" signature="testMethodSetup()[pri:0, instance:com.veskp.test.scenario2.TC4@71809907]" name="testMethodSetup" is-config="true" duration-ms="7404" started-at="2018-04-05T13:19:54Z" finished-at="2018-04-05T13:20:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethodSetup -->
+        <test-method status="PASS" signature="runTC4()[pri:0, instance:com.veskp.test.scenario2.TC4@71809907]" name="runTC4" duration-ms="39126" started-at="2018-04-05T13:20:01Z" finished-at="2018-04-05T13:20:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runTC4 -->
+        <test-method status="PASS" signature="testMethodTearDown()[pri:0, instance:com.veskp.test.scenario2.TC4@71809907]" name="testMethodTearDown" is-config="true" duration-ms="24" started-at="2018-04-05T13:20:41Z" finished-at="2018-04-05T13:20:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethodTearDown -->
+        <test-method status="PASS" signature="suiteTearDown()[pri:0, instance:com.veskp.test.scenario2.TC4@71809907]" name="suiteTearDown" is-config="true" duration-ms="114" started-at="2018-04-05T13:20:41Z" finished-at="2018-04-05T13:20:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- suiteTearDown -->
+      </class> <!-- com.veskp.test.scenario2.TC4 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
